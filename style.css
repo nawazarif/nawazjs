@@ -1,0 +1,30 @@
+body{
+    background-color: #753a88;
+}
+.stopScreen{
+    display: flex;
+    justify-content: center;
+    color: whitesmoke;
+    font-size: 40px;
+}
+.stopHead{
+    font-size: 35px;
+    color: whitesmoke;
+    text-decoration: underline;
+}
+.stopBtns{
+    display: flex;
+    justify-content: center;
+    
+}
+.stopbt{
+    width: 100px;
+    height: 35px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 20%;
+}
+.stopbt:hover{
+    background-color: #a285ac;
+
+}
